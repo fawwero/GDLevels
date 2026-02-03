@@ -1,2 +1,2 @@
 # DZ2
-https://jason8931.github.io/DZ2/
+https://fawwero.github.io/DZ2/
